@@ -1,2 +1,2 @@
-*c# linguist-detectable=false
-*dart linguist-detectable=true
+*.C++ linguist-detectable=false
+*.dart linguist-detectable=true
