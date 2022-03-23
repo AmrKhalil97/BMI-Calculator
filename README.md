@@ -1,6 +1,6 @@
-# sampleproject
+# BMI calculator
 
-A new Flutter project.
+Very simple flutter
 
 ### Some Screenshots
 
