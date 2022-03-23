@@ -1,6 +1,6 @@
 # BMI calculator
 
-Very simple flutter
+Very simple application
 
 ### Some Screenshots
 
